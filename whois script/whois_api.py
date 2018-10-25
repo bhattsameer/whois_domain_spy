@@ -1,5 +1,9 @@
-# Asjustments to repo to migrate from Python 2 to Python 3
+# Adjustments to repo to migrate from Python 2 to Python 3
 # Primary documentation is in README.md. Additional, specific program notes are here.
+#
+#  TODO: File outpts only disclaimer. Need to better frame the desired output in athe file.
+
+
 
 import urllib.request
 import json
